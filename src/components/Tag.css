@@ -1,0 +1,46 @@
+.total-2{
+    
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 30px;
+    width: 55vw;
+    background-color: rgb(255, 201, 119);
+   
+  margin: 40px auto;
+   display: block;
+}
+.heading-3 h1{
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+    font-size: 20px;
+    
+}
+.gif-2 img{
+    width: 43vw;
+    height: 43vh;
+   margin: 20px auto;
+   border: 2px solid rgb(61, 186, 11);
+}
+.inputsearch{
+    display: block;
+    margin: 10px auto;
+    text-align: center; 
+}
+.inputsearch input{
+    border: 1px solid black;
+    margin-left: 3px;
+    
+}
+.btn-2 button{
+    display: block;
+    margin: 20px auto;
+    border: 2px solid rgb(0, 128, 102);
+    width: 120px;
+    border-radius: 7px;
+    background-color: rgb(255, 255, 255);
+
+}
+.btn-2 button:hover{
+    background-color: rgb(86, 138, 9);
+}

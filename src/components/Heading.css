@@ -1,0 +1,12 @@
+.heading h1{
+    display: block;
+   border: 3px solid rgb(61, 97, 166);
+    text-align: center;
+    font-size: 30px;
+    width: 55vw;
+    margin: 30px auto;
+    background-color: rgb(185, 216, 243);
+    color: rgb(45, 45, 155);
+    border-radius: 7px;
+
+}

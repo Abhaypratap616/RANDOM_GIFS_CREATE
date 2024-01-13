@@ -1,0 +1,33 @@
+.heading-2{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.total-1{
+    border: 2px solid black;
+    border-radius: 8px;
+    margin-top: 30px;
+    width: 55vw;
+    background-color: rgb(217, 232, 118);
+   
+  margin: 40px auto;
+   display: block;
+}
+.gif img{
+    width: 43vw;
+    height: 43vh;
+   margin: 20px auto;
+   border: 2px solid rgb(61, 186, 11);
+}
+.btn-1 button{
+    display: block;
+    margin: 20px auto;
+    border: 2px solid rgb(0, 128, 102);
+    width: 120px;
+    border-radius: 7px;
+    background-color: rgb(255, 255, 255);
+}
+.btn-1 button:hover{
+    background-color: rgb(86, 138, 9);
+}
